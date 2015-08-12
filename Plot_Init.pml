@@ -35,7 +35,7 @@ dist H1_O17, react_center & name o17, qwt & name h1
 hide labels
 set dash_color, lime
 
-### Use command: set_view in the interactive window, 
+### Use command: get_view in the interactive window, 
 ### Then copy the output to this file.
 ### cut below here and paste into script ###
 set_view (\
